@@ -4,20 +4,19 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+April 6 2018
 
 ### Student Name:  
-(First and Last Name)
+Nicholas Howorth
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+adding js to a display screen to add more interactive elements
 
 ### View Project Online:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+ https://nhoworth.github.io/lesson7_jquery/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. working with event listeners for improved interacrtivity on the web page
+2. working with dev tools to further understand DOM and BOM
+3. chaining js methods for added functionality 
 
